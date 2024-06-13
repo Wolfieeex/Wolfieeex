@@ -1,7 +1,12 @@
-## Hi there 👋
+# Hi there and welcome to my profile! 👋
+## Who am I? 
+I came to UK 5 years ago seeking to expand my horizons in games programming industry. After finishing my studies at Staffordshire University, I decided to stay and continue learning more about programming. 
+## What I worked on?
+I worked on interesting projects that included, but are not limited to AI pathfinding, dynamic character possession mechanics, strategy and puzzle elements, as well as gravity change features.
+## What I am currently working on?
+I am willing to do my absolute best to break through the barrier and get a job in the software development industry. Having similar experience from the past, I am currently working on completing more projects in C# language that can prove my skills to potential employers.
 
 <!--
-**Wolfieeex/Wolfieeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
