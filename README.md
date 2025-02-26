@@ -4,7 +4,7 @@ I came to UK 5 years ago seeking to expand my horizons in games programming indu
 ## What I worked on?
 I worked on interesting projects that included, but are not limited to AI pathfinding, dynamic character possession mechanics, strategy and puzzle elements, as well as gravity change features.
 ## What I am currently working on?
-C#, html and CSS development.
+C#, html, Python and CSS development.
 
 <!--
 
